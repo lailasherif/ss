@@ -1,0 +1,111 @@
+{%extends "base.html"%}
+
+{% block content %}
+
+<div class="about">
+
+     <h1>About Page</h1>
+
+     <p>Script Spinner was created by five students whose one goal is to help you! In your academic and professional careers, you will be met with countless opportunities to create presentations and we want you to be as prepared as possible. Creating provoking and meaningful presentations can be a way to impress, inspire, and teach those around you. A great presentation will bring you and those around you more knowledge and insight. With our program, you will be able to prep, practice, and perfect your upcoming presentation! We’ve included exciting features to help you with your timing, eye contact, and much more. Start off with our free month trial and see what all the hype is about with Script Spinner. We guarantee that your presentations will never be the same without us!!</p>
+
+<img src="about2.jpg" alt="About Image" style="width300px; height: 300px;">
+
+<div>
+
+{%endblock%}
+
+
+
+
+{%extends "base.html"%}
+
+{% block content %}
+
+<div class="Contact">
+
+     <h1>Contact Page</h1>
+
+     <p>Have questions regarding your Script Spinner subscription? We are here to assist you! Email us with your name and issue and one of our trusted associates will get back to you as quickly as possible! Prefer to chat in real-time? Click on the Chat Support button below!
+
+
+Email: Scriptspinner@gmail.com
+
+
+
+Number: 903-283-3751 
+
+
+
+CHAT HOURS
+
+
+
+Monday-Friday: 8:00 AM -5:00 PM (CST)
+
+
+
+Want to see more Script Spinner? Follow us on our socials!
+
+
+Instagram: @scriptspinner                         Twitter: @scriptspinner
+
+Facebook: @scriptspinner                         TikTok: @scriptspinner
+
+</p>
+
+
+<img src="chat.jpg" alt="Chat Image" style="width300px; height: 300px;">
+
+<div>
+
+{%endblock%}
+
+
+
+
+{%extends "base.html"%}
+
+{% block content %}
+
+<div class="Team">
+
+     <h1>Meet the Team</h1>
+
+     <p>Read along to find out more about the people behind Script Spinner:
+
+Script Spinner is composed of five STEM students who met at the University of Texas at Tyler in their Capstone course!
+
+Joesph Duncan- Our creator and founder! Joesph is … years old and is from … He is finishing up his bachelor’s in Information Technology. A fun fact about Joesph is … 
+Sean Maples- Sean is our business planner and behind all things business, marketing, and financials! He is graduating with his bachelor’s in CIS and is 26 years old and from Inglewood, California. A fun fact about Sean is that he is extremely color blind! 
+Eniola Sogbesan- Our IT professional! Eniola is 23 years old and is from Lagos, Nigeria which is his fun fact! He is graduating with his bachelor’s in Information Technology this year!
+Laila Sherif- Laila handles things like editing, social media, and our documentation! She is 20 years old and is from Los Angeles, California. She is graduating with her bachelor’s in Information Technology and a fun fact is that she actually runs a small baking business from her house! 
+Hiroki Yaginuma- Hiroki is a part of the programming duo behind Script Spinner. He is 23 years old and is from Japan which is a fun fact! He will be graduating with his bachelor’s in Computer Science. 
+Mohammad Alkrad- Mohammad is the other part of the aforementioned programming duo! He is 32 years old and is from Syria He will be graduating with his bachelor’s in Computer Science and a fun fact about him is that he is a diehard fan of soccer.
+
+</p>
+
+<img src="about.jpg" alt="Team Image" style="width300px; height: 300px;">
+
+<div>
+
+{%endblock%}
+
+
+{%extends "base.html"%}
+
+{% block content %}
+
+<div class="Testimonials">
+
+     <h1>Testimonials</h1>
+
+     <p>We think Script Spinner is the best and we know that when you start using it, you will feel the same way too! We love to hear from our customers and see how Script Spinner has positively affected them, their presentations, and their professional life. If you have a nice review or fun anecdote be sure to tell us by emailing us at scriptspinner@gmail.com. We can’t wait to connect with you!
+</p>
+
+
+
+<img src="review.jpg" alt="Five Stars" style="width300px; height: 300px;">
+
+<div>
+
+{%endblock%}
